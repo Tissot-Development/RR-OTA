@@ -1,0 +1,55 @@
+8472b63 Tissot: Fix derp
+5832182 Tissot: Implement new DT2W support
+239a12b Tissot: Add LED node permissions from LOS
+1729676 tissot: Update Toolchain (Linaro 7.2)
+97f6ce3 Tissot: Update radio & WiFi to 1.1
+2018/03/22
+a35d016 Tissot: Added Missing Dependencies
+0b8098a Adding Gcam and Disabling Snap
+0e786c0 Tissot: Add gesture permissions
+ae65629 Tissot: Add backlight path
+5d6e601 Tissot: We are official now
+3e2f115 Tissot: Build lights.msm8953
+8f67412 Tissot: Remove dolby related configs
+cbe0981 tissot: add support for face detection
+0c39f2e Tissot: Fix LED capabilities
+7798e67 Tissot: Update overlay
+a52a9c4 Tissot: Enable HAL3
+991f0be Fix mismerge
+e06a761 tissot: Add PixelStyle
+6a780af tissot: overlay: Disable bluetooth by default
+389ef78 tissot: Enable bootanimation preload and texture cache
+a837247 Tissot: Add support for DT2W
+f9ce571 Tissot: Add time-deamon support
+f1528e2 Tissot: Clean-up rootdir
+aca9ea2 Tissot: Enable dexpreopt
+78deada Tissot: Drop prebuilt Mi Camera app
+4e0df08 Tissot: Update fstab.qcom
+b3dca17 Tissot: Update overlays
+cef44d4 Tissot: Fix liblight
+52d134d Tissot: Update fp keylayouts
+dd27d75 tissot: fix mismerged cherry-pick
+647e63a [HAX]tissot: delete goodix data if other slot is taking up space
+a1cdc47 Tissot: Configure dm-verity
+c4eb6f6 tissot: hvdcp_opti is in the wrong place
+22a3a30 tissot: use correct service permissions for hvdcp_opti
+b6c39ae tissot: Enable adaptive brightness by default
+02ac97a Tissot: Re-enable HW encryption
+2a6d337 Tissot: Fix camera
+169656c Tissot: Fix camera-daemon permissions
+5dbf12b Tissot: Fix fstab.qcom
+91e8029 Tissot: Remove camera wrapper
+6b7adae Tissot: Fix HIDL
+06b61c6 tissot: Add btsco playback
+d94b711 Tissot: Changes for camera
+34c132c Tissot: Add cam permissions
+dcb4052 Tissot: Try to fix cam
+50e93dd Tissot: Build libmmcamera_interface
+8c03943 Tissot: Enable HWC2.0 support
+2db7f8f tissot: increase speaker volume
+8ad06fa tissot: add glove mode from sony's huashan
+a9399ac Tissot: Call recording support
+e3c053f Tissot: Enable real-time lockscreen charging values
+25b27c0 Tissot: Enable Treble OMX
+b3aa54a Tissot: Fix FM
+1dd54d7 Tissot: Changes for camera
