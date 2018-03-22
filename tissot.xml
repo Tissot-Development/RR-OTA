@@ -18,7 +18,7 @@
 <ChangelogUrl
   id="changelog"
   title="Changelog"
-  description="View Changelogs">https://raw.githubusercontent.com/Tissot-Development/RR-OTA/master/changelog.txt</ChangelogUrl>
+  description="View Changelogs">https://github.com/Tissot-Development/RR-OTA/blob/master/changelog.txt</ChangelogUrl>
 <xdaurl
   id="xda"
   title="XDA"
