@@ -1,0 +1,7 @@
+ota_url=https://raw.githubusercontent.com/Tissot-Development/RR-OTA/master/tissot.xml
+release_type=Stable
+device_name=ro.rr.device
+version_source=ro.rr.version
+version_delimiter=-
+version_position=3
+version_format=yyyyMMdd
