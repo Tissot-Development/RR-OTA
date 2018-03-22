@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
-<helium>
+<tissot>
   <Filename>RR-O-v6.0.0-20180321-tissot-Official.zip</Filename>
 <LatestBuildUrl
   id="latestbuild"
@@ -23,6 +23,6 @@
   id="xda"
   title="XDA"
   description="View Xda Thread">https://forum.xda-developers.com/mi-a1/development/rom-resurrection-remix-v6-0-0-xiaomi-mi-t3766990</xdaurl>
-</helium>
+</tissot>
 </Stable>
 </SlimOTA>
