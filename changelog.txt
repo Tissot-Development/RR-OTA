@@ -3,7 +3,7 @@
 239a12b Tissot: Add LED node permissions from LOS
 1729676 tissot: Update Toolchain (Linaro 7.2)
 97f6ce3 Tissot: Update radio & WiFi to 1.1
-2018/03/22
+2018/03/23
 a35d016 Tissot: Added Missing Dependencies
 0b8098a Adding Gcam and Disabling Snap
 0e786c0 Tissot: Add gesture permissions
