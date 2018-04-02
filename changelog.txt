@@ -1,4 +1,19 @@
 ----------------------------------
+[RR-O-v6.0.0-20180402]
+----------------------------------
+• Enable Camera App pinning 
+• Improved dex2oat 
+• Kernel changes
+• Power Suspend
+• Speed up boot
+• Battery optimizations
+• USB Fastcharge Support 
+• Adreno Idler
+• Sound Control 
+• Fast Charge up to 2500ma 
+• Fingerprint Boost Driver
+• exfat Support 
+----------------------------------
 [RR-O-v6.0.0-20180327]
 ----------------------------------
 • Fixed WhatsApp camera
