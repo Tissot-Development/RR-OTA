@@ -1,4 +1,13 @@
 ----------------------------------
+[RR-O-v6.0.0-20180404]
+----------------------------------
+• April's Securety update
+• removed Fingerprint boost
+• removed Fastcharging up to 2500mah
+• Added BLU_ACTIVE
+• Added Maple I/O Scheduler
+• Updates from RR
+----------------------------------
 [RR-O-v6.0.0-20180402]
 ----------------------------------
 • Enable Camera App pinning 
