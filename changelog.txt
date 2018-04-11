@@ -1,4 +1,28 @@
 ----------------------------------
+[RR-O-v6.0.0-20180411]
+----------------------------------
+• Moun Kernel V3.0 
+• Rebaced the kernel and Fixed all of the random issues
+• Kernel upstreams to v3.18.103
+• Removed all un nessery featurs from the kernel like Blu_active and maple i/o
+• Fixed Adreno Idler not not idealing under 320 Mz
+• Added State Notifier and improved the battery in Interactive 
+• Fix Miracast
+• Improve call quality
+• Add support for 32/48KHz VoIP
+• Set GPU default power level to 133MHz
+• Set default read_ahead to 512KB
+• wifi: enable QPower and Deep sleep at the same time
+• wifi: Enable 2.4GHz channel bonding (improve WiFi speed)
+• Improve scrolling responsiveness
+• Low audio flinger standby delay to reduce power consumption
+• Disable round corner padding overlay
+• Add speaker backends
+• Reduce adaptive brightness debounce durations
+• Add MIUI charging animation when switched off
+• Increase media volume steps 15 -> 25
+• Use kernel-based exfat
+----------------------------------
 [RR-O-v6.0.0-20180404]
 ----------------------------------
 • April's Securety update
