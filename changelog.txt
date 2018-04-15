@@ -1,4 +1,31 @@
 ----------------------------------
+[RR-O-v6.0.0-20180415]
+----------------------------------
+• Fixed Substratum issues
+• Alot of RR Upstreams
+• Updated Gcam to Pixel3Mod-Arnova8G2-V1
+• time_daemon: use /persist to store offset to RTC
+• readmac: add support for reading bluetooth mac
+• Move readmac to /vendor
+• readmac: Refactor
+• read wlan mac address
+• Add CAS HAL
+• Drop camera shims
+• Move sysconfig XMLs to vendor
+• Move HIDL shims to vendor
+• Split vendor specific and system props
+• Build bootctrl.msm8953 from source
+• Add BootCtrl & IR to manifest
+• Update data-ipa-cfg-mgr from upstream
+• Enforce RRO on framework-res
+• Add powerhint from stock
+• Set voice call volume steps to 7
+• Switch to vendor.display.config 1.1
+• Low audio flinger standby delay to reduce power consumption"
+• Fix Vendor Image Mismatch
+• Revert ADB hacks
+
+----------------------------------
 [RR-O-v6.0.0-20180413]
 ----------------------------------
 • Fixed Substratum issues
