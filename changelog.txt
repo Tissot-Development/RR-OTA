@@ -4,6 +4,7 @@
 • Fixed Substratum issues
 • Substratum is now working in full OMS mode no root is needed no reboot is needed
 • Alot of RR Upstreams
+• Kernel upstreams to v3.18.105
 • Updated Gcam to Pixel3Mod-Arnova8G2-V1
 • time_daemon: use /persist to store offset to RTC
 • readmac: add support for reading bluetooth mac
