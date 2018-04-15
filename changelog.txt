@@ -2,6 +2,7 @@
 [RR-O-v6.0.0-20180415]
 ----------------------------------
 • Fixed Substratum issues
+• Substratum is now working in full OMS mode no root is needed no reboot is needed
 • Alot of RR Upstreams
 • Updated Gcam to Pixel3Mod-Arnova8G2-V1
 • time_daemon: use /persist to store offset to RTC
