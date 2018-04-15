@@ -23,10 +23,8 @@
 • Add powerhint from stock
 • Set voice call volume steps to 7
 • Switch to vendor.display.config 1.1
-• Low audio flinger standby delay to reduce power consumption"
 • Fix Vendor Image Mismatch
 • Revert ADB hacks
-
 ----------------------------------
 [RR-O-v6.0.0-20180413]
 ----------------------------------
