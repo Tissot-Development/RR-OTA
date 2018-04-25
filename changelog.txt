@@ -1,4 +1,19 @@
 ----------------------------------
+[RR-O-v6.0.0-20180425]
+----------------------------------
+• Selinux Enforcing
+• Fixed Face Detection on Stock Camera
+• Updated GPS & FM HALs
+• Shifted from Live Display JNI to Live Display Native
+• Fix disabling of DT2W from Settings
+• Tweaked Auto Brightness
+• Enabled ZRAM
+• Removed unnecessary things from vendor, & hence reduced ROM file size
+• Fixed all kinds of Fingerprint issues (like Enrollment Failures)
+• Your persist partition will not be touched anymore, & hence your Mac Address won't be destroyed
+• Kernel upstream to 3.18.106
+• No more Forced Fast Charge in default kernel
+----------------------------------
 [RR-O-v6.0.0-20180415]
 ----------------------------------
 • Fixed Substratum issues
