@@ -2,7 +2,9 @@
 [RR-O-v6.0.0-20180426]
 ----------------------------------
 • Fixed FPC fingerprint on enforcing
-• Updated Vendor Display Config to V1.1
+• Tune vibrator pattern
+• Increase dalvik heap
+• Add back Forced Fast Charge
 ----------------------------------
 [RR-O-v6.0.0-20180425]
 ----------------------------------
@@ -42,7 +44,7 @@
 • Enforce RRO on framework-res
 • Add powerhint from stock
 • Set voice call volume steps to 7
-• Switch to vendor.display.config 1.1
+• Revert "Low audio flinger standby delay to reduce power consumption"
 • Fix Vendor Image Mismatch
 • Revert ADB hacks
 ----------------------------------
