@@ -11,6 +11,7 @@
    - 30/120 fps video on rear module and 30/60/120 fps on front module. 
    - Better bitrate on video and audio. 
    - Better EIS for GCam.
+• Updated Gcam to Pixel2Mod-Arnova8G2-V7-Final
 • Kernel Upstream to 3.18.107
 • Merge latest caf patches
 • all drivers are now updated means FP is now faster boot is faster and overall performance is improved by the caf patches
