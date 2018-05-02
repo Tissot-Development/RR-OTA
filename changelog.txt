@@ -1,4 +1,21 @@
 ----------------------------------
+[RR-O-v6.0.0-20180502]
+----------------------------------
+• Set fluencetype to fluencepro
+• Enable EIS by default
+• Fix dual cam support for GCamWide app
+• Set qcom parser value to 3183219
+• Add nhappymann's Camera Patch
+   - Module to patch photos and video recording. 
+   - Module resolution (4096x3072), quick and stable focus.
+   - 30/120 fps video on rear module and 30/60/120 fps on front module. 
+   - Better bitrate on video and audio. 
+   - Better EIS for GCam.
+• Kernel Upstream to 3.18.107
+• Merge latest caf patches
+• all drivers are now updated means FP is now faster boot is faster and overall performance is improved by the caf patches
+• RR upstream
+----------------------------------
 [RR-O-v6.0.0-20180426]
 ----------------------------------
 • Fixed FPC fingerprint on enforcing
