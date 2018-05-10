@@ -1,4 +1,14 @@
 ----------------------------------
+[RR-O-v6.0.0-20180510]
+----------------------------------
+• Switched to GCam 5.1.018 1.6RC2 test4c by_SerJo87
+• May security update 
+• Moun Kernel V3.3
+• Linux Upstream to 3.18.108
+• Revert nhappymann's Camera Patch [2/2]
+• Fix audio_effects.xml copy out path
+• Revert nhappymann's Camera Patch [1/2]
+----------------------------------
 [RR-O-v6.0.0-20180502]
 ----------------------------------
 • Set fluencetype to fluencepro
