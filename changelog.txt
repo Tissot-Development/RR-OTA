@@ -1,4 +1,19 @@
 ----------------------------------
+[RR-O-v6.0.0-20180512]
+----------------------------------
+• Fixed Deep sleep 
+• disable sco enahnced command
+• Revert Pin libskia copy of libMiCameraHal
+• Ship and enable atfwd daemon
+• Drop init.qcom.usb.sh
+• Remove copying of QCRIL DB from vendor partition
+• Enable Camera1 API for legacy targets.
+• Update cam blob list
+• Revert Add dummy libkeymaster1 for goodix fingerprint
+• overwrite mac address if config file exists
+• Revert "HACK: arm64: add CNTPCT_EL0 trap handler"
+• Update Vendor blobs
+----------------------------------
 [RR-O-v6.0.0-20180510]
 ----------------------------------
 • Switched to GCam 5.1.018 1.6RC2 test4c by_SerJo87
