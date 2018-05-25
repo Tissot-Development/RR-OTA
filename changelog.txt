@@ -7,6 +7,7 @@
 • Generated thermal-engine.conf
 • Fixed BT mac address reading (calling over BT should now work as well)
 • Added Missing atfwd dependency to DT and Vendor
+• Fixed USB tethering not working for some users (needs to be confirmed)
 - Moun Kernel V4.0 Changelog
  • Added Spectrum support (u need to flash moun kernel to be able to use the Spectrum profiles)
  • Tuned the valuse for ondemand and conservative Governors
