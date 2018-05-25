@@ -1,4 +1,31 @@
 ----------------------------------
+[RR-O-v6.0.0-20180525]
+----------------------------------
+• Updated Gcam to Pixel3Mod V3 By Arnova8G2
+• Adjust MODEM_PA_MITIGATION and MODEM_PROC_TEMP_MITIGATION as per stock mido
+• Moved thermal config to device tree
+• Generated thermal-engine.conf
+• Fixed BT mac address reading (calling over BT should now work as well)
+• Added Missing atfwd dependency to DT and Vendor
+- Moun Kernel V4.0 Changelog
+ • Added Spectrum support (u need to flash moun kernel to be able to use the Spectrum profiles)
+ • Tuned the valuse for ondemand and conservative Governors
+ • Added lcd notifier
+ • Kernel Upstream to 3.18.109
+ • Added LAZYPLUG and RELAXED Governors
+ • Updated lazyplug to V2.0
+ • set Relaxed Governor to Use State Notifier for Display Query 
+ • Added Relaxed Governor v1.3
+ • Overwrite mac address if config file exists
+ • Overclocked CPU to 2208MHz 
+ • Overclocked GPU to 700MHz  
+ • Added Spectrum support (Download The Spectrum App From Google Play 
+Spectrum profiles: (u need to flash moun kernel to be able to use the Spectrum profiles)
+ • Balance: everything is normal just like V3.3 with a small speed boost (Default Profile)
+ • Performance: the CPU and GPU overclocking are present and autosmp hotplug is on 
+ • Battery: Relaxed Governor and LAZYPLUG are on to give you a mint kernel like battery life
+ • Gaming: the CPU and GPU overclocking are at the maximum and they are always on the max freq and adreno idler is of to insure no framedrops
+----------------------------------
 [RR-O-v6.0.0-20180512]
 ----------------------------------
 • Fixed Deep sleep 
