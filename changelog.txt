@@ -1,6 +1,7 @@
 ----------------------------------
 [RR-O-v6.0.0-20180525]
 ----------------------------------
+• RR Upstream
 • Updated Gcam to Pixel3Mod V3 By Arnova8G2
 • Adjust MODEM_PA_MITIGATION and MODEM_PROC_TEMP_MITIGATION as per stock mido
 • Moved thermal config to device tree
