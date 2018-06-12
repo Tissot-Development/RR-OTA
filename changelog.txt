@@ -1,4 +1,21 @@
 ----------------------------------
+[RR-O-v6.1.0-20180612]
+----------------------------------
+• Resurrection Remix Upstream to RR 6.1.0 (see the changelog for that in the settings)
+• Lineage OS Upstreams
+• Set GPU and CPU Max speed to stock speeds on boot (so the GPU and the CPU OC is 100% not on by defult)
+• fixed bluetooth crash on boot When setprop on for bt is enabled
+• Updated Gcam to Pixel3Mod V4 By Arnova8G2
+• Fixed usb tethering (for sure this time) 
+- Moun Kernel V4.2
+ • Linux Upstream to 3.18.111
+ • Merge latest caf patches LA.UM.6.6.r1-08600-89xx.0
+ • CPU Overclock to 2400 MHz (not on by defult)
+ • GPU Overclocked to 855MHz (not on by defult)
+ • Added CPU Underclock Freq down to 307MHz
+- Moun Kernel V4.3 
+ • Linux upstream to Linux Upstream to 3.18.112
+----------------------------------
 [RR-O-v6.0.0-20180525]
 ----------------------------------
 • RR Upstream
