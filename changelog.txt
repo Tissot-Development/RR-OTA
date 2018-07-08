@@ -1,4 +1,43 @@
 ----------------------------------
+[RR-O-v6.1.0-20180708-tissot-Official/Official-Treble]
+----------------------------------
+• Merged July security update 
+• Fixed signal fluctuations. Feel Stock like signal bar stability. (April modem recommended)
+• Fixed MIUI offline charging animation in GSIs (Official-Treble ONLY)
+• Slightly faster & smoother boot animation
+• Various fixes for better stability
+• Updated Gcam to Pixel2Mod V8 By Arnova8G2
+• RR upstreams
+• Lineage upstreams
+- Moun Kernel V5.0/V5.1
+ • Full kernel Rebase
+ • Linux Upstream to 3.18.114
+ • CAF Upstream to LA.UM.6.6.r1-09000-89xx.0
+ • added magiskpolicy and fixed spectrum on boot profile set by giving it the right Permissions through Selinux Enforcing ( Thanks to @kdrag0n ) (you need to flash the kernel zip to get spectrum support)
+ • removed the 2.4GHz and the 850MHz gpu and cpu overclock and the Underclock to 307MHz(as its proven to be un-stable and it was effecting the battery life significantly)
+ • Added back the old Overclock from V3.3 2.2GHz on the CPU and 700 on the GPU (not on by defult)
+ • Added wireguard importer
+ • Fixed the battery leak from V4.3
+ • Redid the Spectrum battery profile and improved balanced profile and switched to simple ondemand gov for the cpu on all profiles (you need to flash the kernel zip to get spectrum support)
+ • Alot of Kernel wide cleanups
+
+----------------------------------
+[RR-O-v6.1.0-20180628-tissot-Official-Treble]
+----------------------------------
+• initial release
+• Added RR-OTA 
+- Changelog from experimental RR AIO 
+• Resurrection Remix Upstream
+• Lineage OS Upstreams
+• Updated Gcam to Pixel2Mod V8 By Arnova8G2
+• Set GPU and CPU Max speed to stock speeds on boot (so the GPU and the CPU OC is 100% not on by defult)
+- Moun Kernel V4.5
+ •CAF Upstream to LA.UM.6.6.r1-08900-89xx.0
+ •Removed lazyplug (no need for it anymore and it was useless all along)
+ •Updated and improved AutoSMP integration with Spectrum (you need to flash the kernel zip to get spectrum support) 
+ •Fixed a bug were the build script wasnt updating GCC
+ •Kernel wide cleanups (more to come V5 is coming soon)
+----------------------------------
 [RR-O-v6.1.0-20180612]
 ----------------------------------
 • Resurrection Remix Upstream to RR 6.1.0 (see the changelog for that in the settings)
