@@ -23,6 +23,12 @@
   id="xda"
   title="XDA"
   description="View Xda Thread">https://forum.xda-developers.com/mi-a1/development/rom-resurrection-remix-v6-0-0-xiaomi-mi-t3766990</xdaurl>
+
+  description="View Changelogs">https://raw.githubusercontent.com/Tissot-Development/RR-OTA/master/changelog.txt</ChangelogUrl>
+<xdaurl
+  id="moun"
+  title="Moun Kernel"
+  description="View Xda Thread">https://forum.xda-developers.com/mi-a1/development/kernel-moun-kernel-los-aosp-t3771841</xdaurl>  
 </tissot>
 </Stable>
 </SlimOTA>
