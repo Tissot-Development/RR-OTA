@@ -1,4 +1,18 @@
 ----------------------------------
+[RR-O-v6.1.0-20180821-tissot-Official-Treble]
+----------------------------------
+• Merged August security update
+• Some under the hood changes
+• updated Gcam to Arnova's Pixel2Mod V8.2 (i forgot to add that in the rom so just get the apk from here (https://bit.ly/2B7oBPl) and install it)
+• RR upstreams
+• Lineage upstreams
+- Moun Kernel V5.2/V5.6
+• Linux Upstream to 3.18.119
+• CAF Upstream to LA.UM.6.6.r1-09500-89xx.0
+• Updated Wi-Fi driver to LA.UM.6.6.r1-09500-89xx.0
+• alot of spectrum improvements (you need to flash the kernel zip to get Spectrum support)
+" Normal None treble RR will be out tomorrow! "
+----------------------------------
 [RR-O-v6.1.0-20180708-tissot-Official/Official-Treble]
 ----------------------------------
 • Merged July security update 
