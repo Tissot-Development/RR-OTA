@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
 <Stable>
 <tissot>
-  <Filename>RR-O-v6.1.0-20180826-tissot-Official-Treble.zip</Filename>
+  <Filename>RR-O-v6.2.0-20180913-tissot-Treble-Final</Filename>
 <LatestBuildUrl
   id="latestbuild"
   title="Latest Build"
-  description="Download Latest Build">http://downloads.resurrectionremix.com/tissot/treble-aio/RR-O-v6.1.0-20180826-tissot-Official-Treble.zip</LatestBuildUrl>
+  description="Download Latest Build">http://downloads.resurrectionremix.com/tissot/treble-aio/RR-O-v6.2.0-20180913-tissot-Treble-Final</LatestBuildUrl>
 <BuildUrl
   id="build"
   title="Build"
