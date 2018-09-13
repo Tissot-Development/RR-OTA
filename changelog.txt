@@ -1,5 +1,5 @@
 ----------------------------------
-[RR-O-v6.2.0-20180913-tissot-Treble-Final]
+[RR-O-v6.2.0-20180913-tissot-Final/Treble-Final]
 ----------------------------------
 • Set the Tag to Final for the Final Oreo Build (Next is Pie but no ETA)
 • Merged September security update
@@ -9,7 +9,7 @@
 • Linux Upstream to 3.18.121
 • CAF Upstream to LA.UM.6.6.r1-09600-89xx.0
 • Updated Wi-Fi driver to LA.UM.6.6.r1-09600-89xx.0
-" Final non treble will take a few days to be done just give me some time "
+" check the older Changelogs for the full none treble log "
 ----------------------------------
 [RR-O-v6.1.0-20180821-tissot-Official/Official-Treble]
 ----------------------------------
